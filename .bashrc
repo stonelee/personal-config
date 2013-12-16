@@ -111,3 +111,10 @@ PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[0
 alias chrome='google-chrome'
 #export PATH=~/bin/Sencha/Cmd/3.1.2.342:$PATH
 alias drush='~/bin/drush/drush'
+alias ciis='cd ~/works/ciis/src/main/webapp/WEB-INF/resources/scripts'
+alias git-gui='git-cola . & > ~/.git-cola-log'
+
+export NODE_PATH=/usr/local/lib/node_modules
+
+export PATH=$PATH:~/bin/android-sdk-linux/platform-tools
+export PATH=$PATH:~/bin/android-sdk-linux/tools
