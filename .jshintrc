@@ -9,7 +9,6 @@
   "newcap": true,
   "noarg": true,
   "noempty": true,
-  "nonew": true,
   "quotmark": true,
   "undef": true,
   "unused": true,
@@ -20,6 +19,7 @@
   "eqeqeq": false,
   "forin": false,
   "indent": false,
+  "nonew": false,
   "plusplus": false,
 
   "maxparams": false,
